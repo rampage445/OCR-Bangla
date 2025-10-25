@@ -6,7 +6,7 @@
 # Execution
 
 ### main.py -> program starts here
-### ocr_gemini.py -> used to extract text and summarize it
+### ocr_gemini.py -> used to extract text from given images and summarize it
 ### google_drive.py -> used to push csv files to a specific folder
 
 # Preview of output
