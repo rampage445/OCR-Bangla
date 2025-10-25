@@ -1,13 +1,13 @@
 # Assumptions
 
 ### 1. Only images are given in a folder.
-### 2. I was asked to provide titles and links alongside summaries. So, I included the news titles and links but I don't think they are relevant in this context. title_link.json contains the titles and links.
+### 2. I was asked to provide titles and links alongside summaries in a csv file. So, I included the news titles and links but I don't think they are relevant in this context. "title_link.json" contains the titles and links.
 
 # Execution
 
 ### main.py -> program starts here
 ### ocr_gemini.py -> used to extract text from given images and summarize it
-### google_drive.py -> used to push csv files to a specific folder
+### google_drive.py -> used to push csv files to a specific folder on google drive using api
 
 # Preview of output
 
