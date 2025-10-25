@@ -5,9 +5,9 @@
 
 # Execution
 
- main.py
- ocr_gemini.py -> used to extract text and summarize it
- google_drive.py -> used to push csv files to a specific folder
+### main.py
+### ocr_gemini.py -> used to extract text and summarize it
+### google_drive.py -> used to push csv files to a specific folder
 
 # Preview of output
 
