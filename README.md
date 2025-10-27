@@ -18,5 +18,5 @@
 
 - The **output** folder contains:  
   * `summaries.csv`  
-  * `setup guide google drive integration with OAuth2.pdf`  
+  * `setup guide google drive integration.pdf`  
   * `video.mkv`
